@@ -9,7 +9,7 @@ namespace DropboxAPI
 {
     public class Tests
     {
-        private string testFile = @"C:\Users\Fedorov.toxa\Downloads\webapi-testing-master\REDHETMAN\Testfile.txt";
+        private string testFile = "Testfile.txt";
         private string token = "3LI85gRAvxgAAAAAAAAAAfbcW4--LGJq7moIZu6km_PwcN5d6pnsiJx0ZBXqqy4M";
 
         private IRestClient client;
