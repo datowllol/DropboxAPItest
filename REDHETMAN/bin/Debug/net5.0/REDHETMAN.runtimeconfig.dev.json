@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Fedorov.toxa\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Fedorov.toxa\\.nuget\\packages"
+    ]
+  }
+}
